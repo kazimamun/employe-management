@@ -1,0 +1,12 @@
+.salarySummery h3{
+    color: rgb(158, 144, 238);
+    border-bottom: 3px dotted lime;
+}
+.salarySummery{
+    border-top: 1px solid blueviolet;
+    border-bottom: 1px solid blueviolet;
+    border-right: 1px solid blueviolet;
+    width: 146px;
+    padding: 25px 20px;
+    background-color: lightcyan;
+}

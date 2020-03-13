@@ -1,7 +1,13 @@
 .App {
   text-align: center;
 }
-
+.bodyClass{
+  text-align: center;
+}
+.bodyClass h1.header{
+  text-transform: uppercase;
+  border-bottom: 4px solid slategray;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

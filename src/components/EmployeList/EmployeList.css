@@ -1,0 +1,30 @@
+.employees{
+    display: flex;    
+    border-bottom: 2px solid lightcoral;
+    border-right: 2px solid lightcoral;
+}
+.employe-photo{
+    margin: 45px 30px 10px 10px;
+    padding: 10px 10px 0px 0px;
+    border-right: 10px solid lightcoral;
+    border-top: 10px solid lightcoral;
+}
+.employe-photo img{
+    height: 300px;
+    width: 300px;
+}
+.employe-details{
+    margin-top: 45px;
+    margin-left: 147px;
+}
+.employe-details p{
+    border-bottom: 1px solid black;
+}
+.addMeBtn{
+    width: 100px;
+    border-radius: 6px;
+    background-color: bisque;
+    box-shadow: 5px 5px 10px aqua;
+    padding: 8px 0px;
+    cursor: pointer;
+}
